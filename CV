@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Osama Shaban Lamlom | HSE Senior Supervisor</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f2f2f2;
+      margin: 0;
+      padding: 20px;
+    }
+    .container {
+      background: #fff;
+      padding: 30px;
+      max-width: 900px;
+      margin: auto;
+      border-radius: 10px;
+      box-shadow: 0 0 15px rgba(0,0,0,0.1);
+    }
+    h1 {
+      margin-bottom: 0;
+      color: #1a237e;
+    }
+    h2 {
+      color: #283593;
+      border-bottom: 1px solid #ccc;
+      padding-bottom: 5px;
+      margin-top: 30px;
+    }
+    p {
+      margin: 5px 0;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .section-title {
+      font-weight: bold;
+      margin-top: 15px;
+    }
+    .contact, .section {
+      margin-top: 15px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Osama Shaban Lamlom</h1>
+    <p><strong>HSE Senior Supervisor</strong></p>
+
+    <div class="contact">
+      <p>📞 +966 56 435 4592 / 0100 612 9092</p>
+      <p>📧 osamashaban15@yahoo.com</p>
+      <p>📍 Beni Suif, Egypt</p>
+      <p>🗓️ Birth Date: 19/9/1992 | 💍 Marital Status: Married</p>
+    </div>
+
+    <h2>Education</h2>
+    <ul>
+      <li>Bachelor of Tourism & Hotels – Fayoum University (Hotel Studies)</li>
+      <li>Completely studied Russian Language – Russian Cultural Center in Cairo</li>
+      <li>General Diploma – Faculty of Education, Beni Suif University</li>
+      <li>🎓 Graduation Year: 2013</li>
+    </ul>
+
+    <h2>Experience</h2>
+    <ul>
+      <li><strong>Safety Officer</strong> – Red Sea Global (Amala Staff Village), KSA<br>(Aug 2023 – Present)</li>
+      <li><strong>HSE Senior Supervisor</strong> – El-Soadaa Group, Egypt<br>(May 2021 – Aug 2023)</li>
+      <li><strong>HSE Senior Supervisor</strong> – Hassan Allam (Railways Development)<br>(Jul 2019 – Apr 2021)</li>
+      <li><strong>Safety Supervisor</strong> – Nahda Beni Suif University (NUB)<br>(Jan 2018 – Jun 2019)</li>
+      <li><strong>Safety Officer</strong> – El Nour (NCS) Company (Electric Station)<br>(Mar 2017 – Dec 2017)</li>
+      <li><strong>Safety Officer</strong> – El Masria (MCC) Company (Electric Station)<br>(Jun 2016 – Feb 2017)</li>
+      <li><strong>Safety Watcher</strong> – ASEC Automation (Electric Station)<br>(Apr 2015 – May 2016)</li>
+      <li><strong>Receptionist</strong> – Grand Plaza Hotel, Hurghada<br>(Sep 2014 – Mar 2015)</li>
+    </ul>
+
+    <h2>Certifications</h2>
+    <ul>
+      <li>NEBOSH IGC (2023)</li>
+      <li>ICDL – UNESCO</li>
+      <li>Occupational Safety & Health Specialist (Excellent Grade)</li>
+      <li>OSHA General & Construction – Wagdi Seffain Center</li>
+      <li>Risk Assessment – Wagdi Seffain Center</li>
+      <li>First Aid – El Helal El Ahmar Organization</li>
+      <li>Firefighting – Civil Defense Organization</li>
+      <li>Russian Course – Russian Culture Center</li>
+      <li>Pathways to Higher Education Certificate</li>
+      <li>English Language Course Certificate</li>
+    </ul>
+
+    <h2>Skills</h2>
+    <ul>
+      <li>Microsoft Word, Excel, PowerPoint</li>
+      <li>Documents Controller</li>
+      <li>Problem-solving & Analytical Mind</li>
+      <li>Time Management & Public Speaking</li>
+      <li>Leadership & System Administration</li>
+      <li>Flexible Team Player</li>
+    </ul>
+
+    <h2>Languages</h2>
+    <ul>
+      <li>Arabic: Native Speaker</li>
+      <li>English: Professional</li>
+      <li>Russian: Professional</li>
+      <li>German: Good</li>
+      <li>French: Fair</li>
+    </ul>
+  </div>
+</body>
+</html>
